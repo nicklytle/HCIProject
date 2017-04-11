@@ -1,0 +1,51 @@
+"Periods": [
+{
+"Period" : "Mexican War for Independence",
+"Timeline" : [1810,1821],
+"Color" : [0,0,0],
+"Events" : [
+{
+"Event" : "Name",
+"Date" : [],
+"Information" : ""
+}
+
+]
+},
+{
+"Period" : "War of 1812",
+"Timeline" : [1812,1815],
+"Color" : [256,0,0],
+"Events" :
+[
+{
+"Event" : "Name",
+"Date" : [],
+"Information" : ""
+}
+]
+},
+{
+"Period" : "US Presidents",
+"Timeline" : [1797,1817],
+"Color" : [0,256,0],
+"Events" :
+[
+{
+"Event" : "Adam's Presidency",
+"Date" : [1797,1801],
+"Information" : "As second president of the United States, Adams was a bit of a bore."
+},
+{
+"Event" : "Jefferson's Presidency",
+"Date" : [1801,1809],
+"Information" : "As third president of the US, Jefferson bought the Louisana purchase from Napoleon."
+},
+{
+"Event" : "Madison's Presidency",
+"Date" : [1809,1817],
+"Information" : "Adams was the president during the War of 1812."
+}
+]
+}
+]
